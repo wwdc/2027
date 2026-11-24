@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2027/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>               |
+| Participant | Links<br><img src="assets/spacer.svg" width="2000" height="1" alt=""> | Status<br>               |
 |:--|:--|:--|
 
 ##### Total: 0 | Awarded: 0

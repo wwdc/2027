@@ -1,0 +1,5 @@
+# GitHub Pages builds the README of this repository into https://wwdc.github.io/2027/
+theme: jekyll-theme-primer
+title: WWDC 2027 - Swift Student Challenge
+exclude:
+  - Submission
