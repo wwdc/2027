@@ -1,5 +1,7 @@
 # WWDC 2027 - Swift Student Challenge
 
+![WWDC 2027 Logo](logo.png)
+
 List of student submissions for the WWDC 2027 - Swift Student Challenge. The list is in alphabetical order.
 
 ### How to add your submission?
@@ -12,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2027/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>               |
 |:--|:--|:--|
 
 ##### Total: 0 | Awarded: 0
